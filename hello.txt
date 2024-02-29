@@ -11,3 +11,4 @@ master test
 紧急热修！！！hot-fix test
 我tm直接在远程库修改
 ssh免密测试
+测试成功
